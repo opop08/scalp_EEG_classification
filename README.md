@@ -2,7 +2,7 @@
 This is a repo of scalp EEG classification.
 
 
-*data description*
+*data description* 
 this data resample from ~300k raw EEG segments by keeping the type ratios.
   
     1.type_0 refer to background  
@@ -10,7 +10,6 @@ this data resample from ~300k raw EEG segments by keeping the type ratios.
     3.type_2 refer to artifacts 
 
 *parameters description*
-include two parts.
 
     1.train params, include number of iteration, maxing learning rate 
     2.architecture elecments params, inlude layers, filter sizes, dropout...
